@@ -2,7 +2,7 @@
 
 A full-featured, responsive Kanban board built with **React 19**, **TypeScript**, **Vite**, **Tailwind CSS v4**, **Zustand**, and **@dnd-kit**.
 
-## Quick start
+## Quick start.
 
 ```bash
 npm install
